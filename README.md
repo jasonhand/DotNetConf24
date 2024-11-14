@@ -1,8 +1,7 @@
-# .Net Conf - 2024
+# Getting Started with OpenTelemetry in .NET 
 Companion repo for the "Getting Started with OpenTelemetry in .NET" session at .NET Conf 2024 (11/17/2024)
 
 ![image](https://github.com/user-attachments/assets/5e680139-51ba-4b47-b222-3884dd5c06c8)
-
 
 ## Docs
 - [Open Telemetry in Datadog](https://docs.datadoghq.com/opentelemetry/)
