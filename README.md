@@ -13,3 +13,7 @@ Companion repo for the "Getting Started with OpenTelemetry in .NET" session at .
 
 ## Product
 - [Open Telemetry](https://www.datadoghq.com/solutions/opentelemetry/)
+
+## Other
+- [DevOps.com article on OpenTelemetry](https://devops.com/building-an-open-source-observability-platform![image](https://github.com/user-attachments/assets/5c014cd4-3d60-4219-9868-b97bf3b41f15)
+)
