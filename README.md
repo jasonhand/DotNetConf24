@@ -3,6 +3,10 @@ Companion repo for the "Getting Started with OpenTelemetry in .NET" session at .
 
 ![image](https://github.com/user-attachments/assets/5e680139-51ba-4b47-b222-3884dd5c06c8)
 
+## Slides
+
+[PDF Slides](slides/PDF-GettingStartedWithOTelinDotNet.pdf)
+
 ## Docs
 - [Open Telemetry in Datadog](https://docs.datadoghq.com/opentelemetry/)
 - [OTLP Ingestion by the Datadog Agent](https://docs.datadoghq.com/opentelemetry/interoperability/otlp_ingest_in_the_agent/?tab=host)
